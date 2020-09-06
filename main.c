@@ -9,7 +9,7 @@ int main()
     int m1 [2][2];
     int m2 [2][2];
     int m3 [2][2];
-    printf("Weird element >>> %d <<< \n", m3[0][1]); /*This element becomes a 1 instead of 0*/
+    printf("Weird element >>> %d <<< \n", m3[0][1]); /*This element becomes a 1 instead of 0 for some unknown reason*/
 
     printf("Matrix 1\n");
 
